@@ -62,4 +62,7 @@
     <Folder Include="dbo\Stored Procedures" />
     <Folder Include="dbo\Tables" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="PublishLocations\KRMData.publish.xml" />
+  </ItemGroup>
 </Project>
